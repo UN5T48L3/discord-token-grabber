@@ -12,6 +12,6 @@ Watch how to use: https://www.youtube.com/watch?v=wI9h3i7N0fU
 
 
 
-###### I am not the coder of this project, but I will continue to contribute to this project until the Discord Team fully secures the users data.
+###### I am not the coder of this project, but I will continue contributing to this project until the Discord Team fully secures the users data and care about their privacy for real.
 
 
