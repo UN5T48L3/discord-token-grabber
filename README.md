@@ -8,7 +8,7 @@ Watch how to use: https://www.youtube.com/watch?v=wI9h3i7N0fU
 
 
 #### Discord team need to wake up and make sure users and their datas are safe.
-# I'm not respobsible any of situation causes this program.
+# I'm not responsible any of situation causes this program.
 
 
 
